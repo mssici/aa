@@ -1,98 +1,233 @@
 <rss>
-<channel>
-<item>
-<title>انت بعيد</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/انت بعيد.mp3" />
-</item>
-<item>
-<title>انسى حبك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/انسى حبك.mp3" />
-</item>
-<item>
-<title>اوف ياحضنك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/اوف ياحضنك.mp3" />
-</item>
-<item>
-<title>تورط</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/تورط.mp3" />
-</item>
-<item>
-<title>حب مجنون</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/حب مجنون.mp3" />
-</item>
-<item>
-<title>حبيبة عمري</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/حبيبة عمري.mp3" />
-</item>
-<item>
-<title>حنانك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/حنانك.mp3" />
-</item>
-<item>
-<title>دفتر قديم</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/دفتر قديم.mp3" />
-</item>
-<item>
-<title>ماسمعتو</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/ماسمعتو.mp3" />
-</item>
-<item>
-<title>ماكو قسمة</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/ماكو قسمة.mp3" />
-</item>
-<item>
-<title>هذا حبك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/هذا حبك.mp3" />
-</item>
-<item>
-<title>واحد واحد</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/واحد واحد.mp3" />
-</item>
-<item>
-<title>ياجمالك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/ياجمالك.mp3" />
-</item>
-<item>
-<title>يمة يا يمة</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/يمة يا يمة.mp3" />
-</item>
-<item>
-<title>الحب الاولاني</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/1.الحب الاولاني.mp3" />
-</item>
-<item>
-<title>انت امي</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/2.انت امي.mp3" />
-</item>
-<item>
-<title>اختاريت غيري</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/اختاريت غيري - إختارت.mp3" />
-</item>
-<item>
-<title>اريد اجيك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/اريد اجيك.mp3" />
-</item>   
-<item>
-<title>اعلن التوبة</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/اعلن التوبة.mp3" />
-</item>
+    <channel>
+            <item>
 
-<item>
-<title>روحي بيك</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/روحي بيك.mp3" />
-</item>
-<item>
-<title>عمري و حياتي</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/عمري و حياتي.mp3" />
-</item>
-<item>
-<title>لاحبيبه ولاصديقه</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/لاحبيبه ولاصديقه.mp3" />
-</item>
-<item>
-<title>لو غيمت دنياي</title>
-<enclosure url="http://douniamp3.co/music/test/اغاني%20عراقية/اغاني-اوراس-ستار-2017/لو غيمت دنياي.mp3" />
-</item>   
 
-</channel>
+            <title>انتي امي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Satta.Ante.Ume.mp3"/>
+        </item>
+        <item>
+
+
+            <title>لاحبيبة ولاصديقة</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.La.Habiba.Wala.Sadika.mp3"/>
+        </item>
+        <item>
+
+
+            <title>ماسمعتو</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Masm3tom.mp3"/>
+        </item>
+        <item>
+
+
+            <title>حب مجنون</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Hob.Majnon.mp3"/>
+        </item>
+        <item>
+
+
+            <title>احاول انسى حبك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.A7awel.Ansa.Hobak.mp3"/>
+        </item>
+        <item>
+
+
+            <title>روحي بيك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Rohy.Beek.mp3"/>
+        </item>
+        <item>
+
+
+            <title>دفتر قديم</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Daftr.Qdem.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الحب تغير حالة</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.El.Hob.Tghyer.Halo.mp3"/>
+        </item>
+        <item>
+
+
+            <title>والله ما ناسيك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Walla.Ma.Nasek.mp3"/>
+        </item>
+        <item>
+
+
+            <title>اوف ياحضنك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Of.Yahodnak.mp3"/>
+        </item>
+        <item>
+
+
+            <title>واحد واحد</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/oras-staar/singels/Dndnha.Com.Oras.Star.Wahed.Wahed.mp3"/>
+        </item>
+        <item>
+
+
+            <title>اختاريت غيري</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/oras-staar/singels/Dndnha.Com.Oras.Star.5taret.Ghyry.mp3"/>
+        </item>
+        <item>
+
+
+            <title>هذا جزاي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Hatha.Jazaiy.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الملح ذاب</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Elml7.Zab.mp3"/>
+        </item>
+        <item>
+
+
+            <title>عريس</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.3ares.mp3"/>
+        </item>
+        <item>
+
+
+            <title>رجعناها</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Rja3naha.mp3"/>
+        </item>
+        <item>
+
+
+            <title>يا طيري</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Ya.Tere.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الحب الاولي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Satta.Al.Hub.Al.Awally.mp3"/>
+        </item>
+        <item>
+
+
+            <title>انتي امي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Satta.Ante.Ume.mp3"/>
+        </item>
+        <item>
+
+
+            <title>لاحبيبة ولاصديقة</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.La.Habiba.Wala.Sadika.mp3"/>
+        </item>
+        <item>
+
+
+            <title>ماسمعتو</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Masm3tom.mp3"/>
+        </item>
+        <item>
+
+
+            <title>حب مجنون</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Hob.Majnon.mp3"/>
+        </item>
+        <item>
+
+
+            <title>احاول انسى حبك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.A7awel.Ansa.Hobak.mp3"/>
+        </item>
+        <item>
+
+
+            <title>روحي بيك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Rohy.Beek.mp3"/>
+        </item>
+        <item>
+
+
+            <title>دفتر قديم</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Daftr.Qdem.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الحب تغير حالة</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.El.Hob.Tghyer.Halo.mp3"/>
+        </item>
+        <item>
+
+
+            <title>والله ما ناسيك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Walla.Ma.Nasek.mp3"/>
+        </item>
+        <item>
+
+
+            <title>اوف ياحضنك</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Of.Yahodnak.mp3"/>
+        </item>
+        <item>
+
+
+            <title>واحد واحد</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/oras-staar/singels/Dndnha.Com.Oras.Star.Wahed.Wahed.mp3"/>
+        </item>
+        <item>
+
+
+            <title>اختاريت غيري</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/oras-staar/singels/Dndnha.Com.Oras.Star.5taret.Ghyry.mp3"/>
+        </item>
+        <item>
+
+
+            <title>تورط</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Tawart.mp3"/>
+        </item>
+        <item>
+
+
+            <title>هذا جزاي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Hatha.Jazaiy.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الملح ذاب</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Elml7.Zab.mp3"/>
+        </item>
+        <item>
+
+
+            <title>عريس</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.3ares.mp3"/>
+        </item>
+        <item>
+
+
+            <title>رجعناها</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Rja3naha.mp3"/>
+        </item>
+        <item>
+
+
+            <title>يا طيري</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Sattar.Ya.Tere.mp3"/>
+        </item>
+        <item>
+
+
+            <title>الحب الاولي</title>
+            <enclosure url="https://dl.dndser.com/dl/alf/oras-staar/singels/Dndnha.Com.Oras.Satta.Al.Hub.Al.Awally.mp3"/>
+        </item>
+
+        <item>
+
+
+            <title>تورط</title>
+            <enclosure url="https://sr1.dndnha.com/dl2/alf/oras-staar/singels/Dndnha.Com.Oras.Staar.Tawart.mp3"/>
+        </item>
+    </channel>
 </rss>
