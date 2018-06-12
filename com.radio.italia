@@ -1,0 +1,75 @@
+<rss>
+<channel>
+
+<item>
+<title>Radio Napoli Doc</title>
+<enclosure url="https://ice08.fluidstream.net/RadioNapoli.aac" />
+</item>
+
+<item>
+<title>Lolli Radio Italia</title>
+<enclosure url="http://italia.lolliradio.net:8010/;" />
+</item>
+
+<item>
+<title>Radio Xassida Online</title>
+<enclosure url="http://206.190.135.28:8000/;stream.mp3" />
+</item>
+
+<item>
+<title>Love FM Italy</title>
+<enclosure url="http://ice07.fluidstream.net/lovefm.mp3?type=.mp3" />
+</item>
+
+<item>
+<title>Radio Liscio e Folk</title>
+<enclosure url="http://dj.mediastreaming.it:7012/;" />
+</item>
+
+<item>
+<title>Easy Network</title>
+<enclosure url="http://str01.fluidstream.net:6030/;stream.mp3" />
+</item>
+
+<item>
+<title>Ciao Italia Radio</title>
+<enclosure url="http://31.220.4.253:8000/;" />
+</item>
+
+<item>
+<title>1 Amazing channel</title>
+<enclosure url="http://37.187.93.104:8812/;" />
+</item>
+
+<item>
+<title>1 Master Hip Hop</title>
+<enclosure url="http://streaming.radionomy.com/1MASTERHIP-HOP?type=.mp3/;stream.mp3" />
+</item>
+
+<item>
+<title>105 2k and More</title>
+<enclosure url="http://icy.unitedradio.it/1052kandMore.mp3" />
+</item>
+
+<item>
+<title>Classics</title>
+<enclosure url="http://icy.unitedradio.it/105Classics.mp3?type=.mp3/;stream.mp3" />
+</item>
+
+<item>
+<title>Radio Love</title>
+<enclosure url="http://streaming.radionomy.com/141RadioLove?lang=en%2car%3bq%3d0.9" />
+</item>
+
+<item>
+<title>35 TNT</title>
+<enclosure url="http://quasar.shoutca.st:8475/stream?type=.mp3/;stream.mp3" />
+</item>
+
+<item>
+<title>Back to the 80s</title>
+<enclosure url="http://64.71.79.181:5076/stream" />
+</item>
+
+</channel>
+</rss>
